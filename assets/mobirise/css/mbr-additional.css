@@ -49,7 +49,7 @@ body {
   font-size: 2.4rem;
 }
 .display-7 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Courier Prime', monospace;
   font-size: 1rem;
 }
 .display-7 > .mbr-iconfont {
@@ -659,7 +659,7 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Courier Prime', monospace;
   font-size: 1rem;
   line-height: 1.43;
   min-height: 3.5em;
@@ -2067,8 +2067,8 @@ body {
   }
 }
 .cid-rSEYCIeTpz {
-  padding-top: 120px;
-  padding-bottom: 60px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-image: url("../../../assets/images/mbr-1920x1280.jpg");
 }
 .cid-rSEZGRoZ4Z {
@@ -2116,9 +2116,9 @@ body {
   background-color: #232323;
 }
 .cid-rSEYCKq9nU {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/mbr-1920x813.jpg");
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/mbr-1-1920x813.jpg");
 }
 .cid-rSF0OZkvL2 {
   padding-top: 0px;
@@ -2165,8 +2165,8 @@ body {
   background-color: #232323;
 }
 .cid-rSEYCMBof6 {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-image: url("../../../assets/images/mbr-1920x909.jpg");
 }
 .cid-rSF0UrrmrQ {
@@ -2214,8 +2214,8 @@ body {
   background-color: #232323;
 }
 .cid-rSEYCOJtyG {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-image: url("../../../assets/images/mbr-1920x1439.jpg");
 }
 .cid-rSF0WzyAQq {
